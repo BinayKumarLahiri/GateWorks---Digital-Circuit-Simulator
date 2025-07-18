@@ -1,0 +1,41 @@
+[*]. Implement Custom Simulator Object to handle Everything in the Game
+[*]. Implement Screens and GUI Handler
+  [*]. Implement Registering Events by names and Registering Callbacks
+  [*]. Implement Button Click Handeling
+  [*]. Implement Page Change Feature
+[*]. Create Gates Class with different Types and Count of Pins
+  [*]. Make Components
+  [*]. Make Them Movable
+  [*]. Make Pins Selectable
+  [*]. Draw Connections
+  
+  [*]. And Gate
+  [*]. Or Gate
+  [*]. Not Gate
+  [*]. Nor Gate
+  [*]. Xor Gate
+  [*]. Nand Gate
+  [*]. Implement Pins and somehow link it to the DAG and its Parent:)
+[*]. Create Switch Class and implement state toggle on Click and draw differently
+[*]. Create Bulb class and define state and draw differently
+[*]. Implement Board Class
+  [*]. Store Multiple Gates
+  [*]. Implement Gate Selection and Movement
+  [*]. Implement Pin Selection and Buffering
+  [*]. Implemnt Gate Insertion and deletion
+  [*]. Implement Connection and Disconnection
+  [*]. Implement Simulation
+    [*]. Implement Clock and its controls 
+    [*]. Pause and Start Simulation
+[]. Create Cicuit Serializer
+[]. Create File Handler for Save and Load
+
+
+
+
+Temporary Work-----
+Drop Down Button Counts: 
+1. Header
+2. Delete
+3. Number of Inputs
+
